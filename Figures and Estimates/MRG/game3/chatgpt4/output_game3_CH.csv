@@ -1,0 +1,4 @@
+"","LLM","tau","treatment","temperature","ci_lower_tau","ci_upper_tau"
+"1","chatgpt4","0.991764726847667","human decision maker_human decision maker_0.25","0.25","0.944671409182255","0.999999860608644"
+"2","chatgpt4","1.00000000869722","human decision maker_human decision maker_0.5","0.5","0.92996363677835","1.05676937917809"
+"3","chatgpt4","0.872348638215253","human decision maker_human decision maker_0.75","0.75","0.817339975856574","0.949578011255161"

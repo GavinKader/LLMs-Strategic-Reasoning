@@ -1,0 +1,33 @@
+"game","X","LLM","tau","treatment","temperature","ci_lower_tau","ci_upper_tau"
+"game1",1,"chatgpt4",0.911841367793129,"human decision maker_human decision maker_0.25",0.25,0.881363774133505,0.944671409598236
+"game1",2,"chatgpt4",0.914711368563972,"human decision maker_human decision maker_0.5",0.5,0.861550191599312,0.970695702982954
+"game1",3,"chatgpt4",0.829472844684298,"human decision maker_human decision maker_0.75",0.75,0.735386894449722,0.950463829933109
+"game1",1,"chatgpto1",1.2111914960563,"human decision maker_human decision maker_1",1,1.10596226868206,1.30652384574604
+"game1",1,"claude2",1.1784496804516e-32,"human decision maker__0.25",0.25,9.7489058409859e-37,4.46517152703634e-28
+"game1",2,"claude2",2.27943672912929e-22,"human decision maker__0.5",0.5,2.7440647355865e-27,0.698617561445663
+"game1",3,"claude2",2.97361609504196e-22,"human decision maker__0.75",0.75,4.43538063751669e-27,0.698885100518281
+"game1",1,"claude3",4.9123521377738e-27,"human decision maker__0.25",0.25,5.25174638200568e-33,4.59489152950298e-21
+"game1",2,"claude3",9.10800824807654e-31,"human decision maker__0.5",0.5,5.4301375991934e-36,1.52769267319033e-25
+"game1",3,"claude3",4.91235297547854e-27,"human decision maker__0.75",0.75,2.92871381245407e-32,1.01249944136427e-21
+"game1",1,"gemini1",1.11292507961866e-48,"human decision maker_human decision maker_0.5",0.5,1.11292507961866e-48,1.11292507961866e-48
+"game1",2,"gemini1",1.11292507961866e-48,"human decision maker_human decision maker_0.25",0.25,1.11292507961866e-48,1.11292507961866e-48
+"game1",3,"gemini1",1.11292507961866e-48,"human decision maker_human decision maker_0.75",0.75,1.11292507961866e-48,1.11292507961866e-48
+"game1",1,"gemini2",0.999999516838443,"human decision maker_human decision maker_0.5",0.5,0.999999366997768,1.21768259992192
+"game1",2,"gemini2",1.42025422622612,"human decision maker_human decision maker_0.25",0.25,1.27423813032252,1.56213895502331
+"game1",3,"gemini2",1.80993895062029,"human decision maker_human decision maker_0.75",0.75,1.75714656588311,1.85218284014649
+"game3",1,"chatgpt4",0.991764726847667,"human decision maker_human decision maker_0.25",0.25,0.944671409182255,0.999999860608644
+"game3",2,"chatgpt4",1.00000000869722,"human decision maker_human decision maker_0.5",0.5,0.92996363677835,1.05676937917809
+"game3",3,"chatgpt4",0.872348638215253,"human decision maker_human decision maker_0.75",0.75,0.817339975856574,0.949578011255161
+"game3",1,"chatgpto1",1.59905837851277,"human decision maker_human decision maker_1",1,1.52559905713889,1.67275400133083
+"game3",1,"claude2",1.72529934800162,"human decision maker__0.25",0.25,1.65142303692593,1.78881951436835
+"game3",2,"claude2",1.21312569089627,"human decision maker__0.5",0.5,0.999999699332928,1.37873180512498
+"game3",3,"claude2",1.07194230474281,"human decision maker__0.75",0.75,0.886718217379099,1.28918822002841
+"game3",1,"claude3",1.22944276321964e-19,"human decision maker__0.25",0.25,1.31438462358677e-25,1.14998999320793e-13
+"game3",2,"claude3",6.85616808391524e-19,"human decision maker__0.5",0.5,2.87907067222729e-25,1.4047438308322e-12
+"game3",3,"claude3",1.96123050168269e-23,"human decision maker__0.75",0.75,1.11256779944667e-29,1.59114884144244e-17
+"game3",1,"gemini1",1.11292507961866e-48,"human decision maker_human decision maker_0.5",0.5,1.11292507961866e-48,1.11292507961866e-48
+"game3",2,"gemini1",1.11292507961866e-48,"human decision maker_human decision maker_0.25",0.25,1.11292507961866e-48,1.11292507961866e-48
+"game3",3,"gemini1",1.11292507961866e-48,"human decision maker_human decision maker_0.75",0.75,1.11292507961866e-48,1.11292507961866e-48
+"game3",1,"gemini2",1.89442721118689,"human decision maker_human decision maker_0.5",0.5,1.89442721118689,1.89442721118689
+"game3",2,"gemini2",1.89442721118689,"human decision maker_human decision maker_0.25",0.25,1.89442721118689,1.89442721118689
+"game3",3,"gemini2",1.89442721118689,"human decision maker_human decision maker_0.75",0.75,1.89442721118689,1.89442721118689

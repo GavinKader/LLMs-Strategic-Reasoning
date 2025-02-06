@@ -1,0 +1,4 @@
+"","LLM","tau","treatment","temperature","ci_lower_tau","ci_upper_tau"
+"1","gemini1","1.11292507961866e-48","human decision maker_human decision maker_0.5","0.5","1.11292507961866e-48","1.11292507961866e-48"
+"2","gemini1","1.11292507961866e-48","human decision maker_human decision maker_0.25","0.25","1.11292507961866e-48","1.11292507961866e-48"
+"3","gemini1","1.11292507961866e-48","human decision maker_human decision maker_0.75","0.75","1.11292507961866e-48","1.11292507961866e-48"
